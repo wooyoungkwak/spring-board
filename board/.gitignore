@@ -1,0 +1,6 @@
+.metadata
+bin/
+*.tmp
+*.bak
+*.swp
+*~.nib
